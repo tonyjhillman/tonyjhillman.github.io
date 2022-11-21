@@ -1,0 +1,1191 @@
+{
+  "version": 3,
+  "generated": 1669039954894,
+  "url": "https://docs.couchbase.com",
+  "components": [
+    {
+      "name": "cloud",
+      "title": "Couchbase Capella",
+      "latest": "master",
+      "versions": [
+        {
+          "version": "master",
+          "url": "/cloud/index.html",
+          "pages": [
+            {
+              "alias": true,
+              "module": "app-services",
+              "path": "app-endpoint.adoc",
+              "url": "/cloud/app-services/deployment/creating-an-app-endpoint.html",
+              "title": "Creating App Endpoints"
+            },
+            {
+              "module": "app-services",
+              "path": "billing/billing.adoc",
+              "url": "/cloud/app-services/billing/billing.html",
+              "title": "Billing"
+            },
+            {
+              "module": "app-services",
+              "path": "channels/channels.adoc",
+              "url": "/cloud/app-services/channels/channels.html",
+              "title": "Channels"
+            },
+            {
+              "module": "app-services",
+              "path": "connect/connect-apps-to-endpoint.adoc",
+              "url": "/cloud/app-services/connect/connect-apps-to-endpoint.html",
+              "title": "Connecting your Apps to an App Endpoint"
+            },
+            {
+              "alias": true,
+              "module": "app-services",
+              "path": "controlling-app-endpoints.adoc",
+              "url": "/cloud/app-services/deployment/configuring-app-endpoints.html",
+              "title": "Configuring App Endpoints"
+            },
+            {
+              "module": "app-services",
+              "path": "deployment/access-control-data-validation.adoc",
+              "url": "/cloud/app-services/deployment/access-control-data-validation.html",
+              "title": "Access Control and Data Validation for App Endpoints"
+            },
+            {
+              "module": "app-services",
+              "path": "deployment/accessing-admin-apis.adoc",
+              "url": "/cloud/app-services/deployment/accessing-admin-apis.html",
+              "title": "Granting Admin Access to REST APIs"
+            },
+            {
+              "alias": true,
+              "module": "app-services",
+              "path": "deployment/configure-app-endpoint.adoc",
+              "url": "/cloud/app-services/deployment/creating-an-app-endpoint.html",
+              "title": "Creating App Endpoints"
+            },
+            {
+              "module": "app-services",
+              "path": "deployment/configuring-app-endpoints.adoc",
+              "url": "/cloud/app-services/deployment/configuring-app-endpoints.html",
+              "title": "Configuring App Endpoints"
+            },
+            {
+              "module": "app-services",
+              "path": "deployment/creating-an-app-endpoint.adoc",
+              "url": "/cloud/app-services/deployment/creating-an-app-endpoint.html",
+              "title": "Creating App Endpoints"
+            },
+            {
+              "module": "app-services",
+              "path": "deployment/creating-an-app-service.adoc",
+              "url": "/cloud/app-services/deployment/creating-an-app-service.html",
+              "title": "Creating an App Service"
+            },
+            {
+              "module": "app-services",
+              "path": "deployment/scaling-a-deployed-app-service.adoc",
+              "url": "/cloud/app-services/deployment/scaling-a-deployed-app-service.html",
+              "title": "Scaling a Deployed App Service"
+            },
+            {
+              "module": "app-services",
+              "path": "index.adoc",
+              "url": "/cloud/app-services/index.html",
+              "title": "App Services"
+            },
+            {
+              "module": "app-services",
+              "path": "migrating/on-prem-to-capella.adoc",
+              "url": "/cloud/app-services/migrating/on-prem-to-capella.html",
+              "title": "Migrating Existing Self-Managed Couchbase Mobile Clusters to App Services"
+            },
+            {
+              "module": "app-services",
+              "path": "monitoring/monitoring-app-endpoints.adoc",
+              "url": "/cloud/app-services/monitoring/monitoring-app-endpoints.html",
+              "title": "Monitoring App Endpoints"
+            },
+            {
+              "module": "app-services",
+              "path": "monitoring/monitoring-app-services.adoc",
+              "url": "/cloud/app-services/monitoring/monitoring-app-services.html",
+              "title": "Monitoring App Services"
+            },
+            {
+              "module": "app-services",
+              "path": "references/assets/rest/generated/rest-api-admin/index.adoc",
+              "url": "/cloud/app-services/references/assets/rest/generated/rest-api-admin/index.html",
+              "title": "{SGW}"
+            },
+            {
+              "module": "app-services",
+              "path": "references/assets/rest/generated/rest-api-metrics/index.adoc",
+              "url": "/cloud/app-services/references/assets/rest/generated/rest-api-metrics/index.html",
+              "title": "{SGW}"
+            },
+            {
+              "module": "app-services",
+              "path": "references/assets/rest/generated/rest-api-public/index.adoc",
+              "url": "/cloud/app-services/references/assets/rest/generated/rest-api-public/index.html",
+              "title": "{SGW}"
+            },
+            {
+              "module": "app-services",
+              "path": "references/assets/rest/override/asciidoc/stubs/empty.adoc",
+              "url": "/cloud/app-services/references/assets/rest/override/asciidoc/stubs/empty.html"
+            },
+            {
+              "module": "app-services",
+              "path": "references/rest_api_admin_static.adoc",
+              "url": "/cloud/app-services/references/rest_api_admin_static.html",
+              "title": "Admin REST API"
+            },
+            {
+              "module": "app-services",
+              "path": "references/rest_api_metrics_static.adoc",
+              "url": "/cloud/app-services/references/rest_api_metrics_static.html",
+              "title": "Metrics REST API"
+            },
+            {
+              "module": "app-services",
+              "path": "references/rest_api_public_static.adoc",
+              "url": "/cloud/app-services/references/rest_api_public_static.html",
+              "title": "Public REST API"
+            },
+            {
+              "module": "app-services",
+              "path": "references/rest-api-introduction.adoc",
+              "url": "/cloud/app-services/references/rest-api-introduction.html",
+              "title": "Secure Access through the REST API"
+            },
+            {
+              "module": "app-services",
+              "path": "user-management/create-app-role.adoc",
+              "url": "/cloud/app-services/user-management/create-app-role.html",
+              "title": "Creating App Roles"
+            },
+            {
+              "module": "app-services",
+              "path": "user-management/create-user.adoc",
+              "url": "/cloud/app-services/user-management/create-user.html",
+              "title": "App User Administration"
+            },
+            {
+              "module": "app-services",
+              "path": "user-management/set-up-authentication-provider.adoc",
+              "url": "/cloud/app-services/user-management/set-up-authentication-provider.html",
+              "title": "Setting up an Authentication Provider"
+            },
+            {
+              "module": "azure-cloud",
+              "path": "azure-cloud-connection-prerequisites.adoc",
+              "url": "/cloud/azure-cloud/azure-cloud-connection-prerequisites.html",
+              "title": "Couchbase Capella: Azure Cloud Connection Prerequisites"
+            },
+            {
+              "module": "billing",
+              "path": "billing.adoc",
+              "url": "/cloud/billing/billing.html",
+              "title": "Billing"
+            },
+            {
+              "module": "billing",
+              "path": "manage-billing.adoc",
+              "url": "/cloud/billing/manage-billing.html",
+              "title": "Manage Billing"
+            },
+            {
+              "module": "clouds",
+              "path": "cloud-providers.adoc",
+              "url": "/cloud/clouds/cloud-providers.html"
+            },
+            {
+              "module": "clouds",
+              "path": "connect-an-sdk.adoc",
+              "url": "/cloud/clouds/connect-an-sdk.html",
+              "title": "Connect Your SDK"
+            },
+            {
+              "module": "clouds",
+              "path": "get-capella-host-name.adoc",
+              "url": "/cloud/clouds/get-capella-host-name.html",
+              "title": "Get the Capella Host Name"
+            },
+            {
+              "module": "clouds",
+              "path": "private-network.adoc",
+              "url": "/cloud/clouds/private-network.html",
+              "title": "Configure a Private Network"
+            },
+            {
+              "alias": true,
+              "module": "clusters",
+              "path": "activity-explorer.adoc",
+              "url": "/cloud/clusters/monitoring/activity-log.html",
+              "title": "Activity Log"
+            },
+            {
+              "module": "clusters",
+              "path": "allow-ip-address.adoc",
+              "url": "/cloud/clusters/allow-ip-address.html",
+              "title": "Configure Allowed IP Addresses"
+            },
+            {
+              "module": "clusters",
+              "path": "analytics-service/analytics-links.adoc",
+              "url": "/cloud/clusters/analytics-service/analytics-links.html",
+              "title": "Analytics Links"
+            },
+            {
+              "module": "clusters",
+              "path": "analytics-service/analytics-monitor.adoc",
+              "url": "/cloud/clusters/analytics-service/analytics-monitor.html",
+              "title": "Analytics Monitor"
+            },
+            {
+              "module": "clusters",
+              "path": "analytics-service/analytics-service.adoc",
+              "url": "/cloud/clusters/analytics-service/analytics-service.html",
+              "title": "Analytics Service"
+            },
+            {
+              "module": "clusters",
+              "path": "analytics-service/analytics-workbench.adoc",
+              "url": "/cloud/clusters/analytics-service/analytics-workbench.html",
+              "title": "Analytics Workbench"
+            },
+            {
+              "module": "clusters",
+              "path": "backup-restore.adoc",
+              "url": "/cloud/clusters/backup-restore.html",
+              "title": "Backup and Restore Cluster Data"
+            },
+            {
+              "alias": true,
+              "module": "clusters",
+              "path": "clusters.adoc",
+              "url": "/cloud/clusters/databases.html",
+              "title": "Databases Overview"
+            },
+            {
+              "alias": true,
+              "module": "clusters",
+              "path": "connect-self-managed-cluster.adoc",
+              "url": "/cloud/invpc/invpc-create-cluster.html",
+              "title": "Create a Cluster"
+            },
+            {
+              "module": "clusters",
+              "path": "create-database.adoc",
+              "url": "/cloud/clusters/create-database.html",
+              "title": "Create a Database"
+            },
+            {
+              "alias": true,
+              "module": "clusters",
+              "path": "create-replication.adoc",
+              "url": "/cloud/clusters/xdcr/manage-xdcr-replications.html",
+              "title": "Manage Replications"
+            },
+            {
+              "module": "clusters",
+              "path": "data-service/data-service.adoc",
+              "url": "/cloud/clusters/data-service/data-service.html",
+              "title": "Data Service"
+            },
+            {
+              "module": "clusters",
+              "path": "data-service/import-data-documents.adoc",
+              "url": "/cloud/clusters/data-service/import-data-documents.html",
+              "title": "Import Data"
+            },
+            {
+              "module": "clusters",
+              "path": "data-service/manage-buckets.adoc",
+              "url": "/cloud/clusters/data-service/manage-buckets.html",
+              "title": "Manage Buckets"
+            },
+            {
+              "module": "clusters",
+              "path": "data-service/manage-documents.adoc",
+              "url": "/cloud/clusters/data-service/manage-documents.html",
+              "title": "Manage Documents"
+            },
+            {
+              "module": "clusters",
+              "path": "data-service/scopes-collections.adoc",
+              "url": "/cloud/clusters/data-service/scopes-collections.html",
+              "title": "Manage Scopes and Collections"
+            },
+            {
+              "module": "clusters",
+              "path": "data-service/storage-engines.adoc",
+              "url": "/cloud/clusters/data-service/storage-engines.html",
+              "title": "Storage Engines"
+            },
+            {
+              "module": "clusters",
+              "path": "databases.adoc",
+              "url": "/cloud/clusters/databases.html",
+              "title": "Databases Overview"
+            },
+            {
+              "alias": true,
+              "module": "clusters",
+              "path": "delete-cluster.adoc",
+              "url": "/cloud/clusters/delete-database.html",
+              "title": "Delete a Database"
+            },
+            {
+              "module": "clusters",
+              "path": "delete-database.adoc",
+              "url": "/cloud/clusters/delete-database.html",
+              "title": "Delete a Database"
+            },
+            {
+              "alias": true,
+              "module": "clusters",
+              "path": "delete-replication.adoc",
+              "url": "/cloud/clusters/xdcr/manage-xdcr-replications.html",
+              "title": "Manage Replications"
+            },
+            {
+              "alias": true,
+              "module": "clusters",
+              "path": "document-inspector.adoc",
+              "url": "/cloud/clusters/data-service/manage-documents.html",
+              "title": "Manage Documents"
+            },
+            {
+              "module": "clusters",
+              "path": "eventing-service/eventing-service.adoc",
+              "url": "/cloud/clusters/eventing-service/eventing-service.html",
+              "title": "Eventing Service"
+            },
+            {
+              "module": "clusters",
+              "path": "eventing-service/manage-functions.adoc",
+              "url": "/cloud/clusters/eventing-service/manage-functions.html",
+              "title": "Manage Eventing Functions and Settings"
+            },
+            {
+              "module": "clusters",
+              "path": "index-service/index-service.adoc",
+              "url": "/cloud/clusters/index-service/index-service.html",
+              "title": "Index Service"
+            },
+            {
+              "module": "clusters",
+              "path": "index-service/manage-indexes.adoc",
+              "url": "/cloud/clusters/index-service/manage-indexes.html",
+              "title": "Manage Indexes"
+            },
+            {
+              "module": "clusters",
+              "path": "manage-backup.adoc",
+              "url": "/cloud/clusters/manage-backup.html",
+              "title": "Manage Backups"
+            },
+            {
+              "module": "clusters",
+              "path": "manage-database-users.adoc",
+              "url": "/cloud/clusters/manage-database-users.html",
+              "title": "Configure Database Credentials"
+            },
+            {
+              "module": "clusters",
+              "path": "manage-restore.adoc",
+              "url": "/cloud/clusters/manage-restore.html",
+              "title": "Restore a Backup"
+            },
+            {
+              "alias": true,
+              "module": "clusters",
+              "path": "modify-cluster.adoc",
+              "url": "/cloud/clusters/modify-database.html",
+              "title": "Modify a Database"
+            },
+            {
+              "module": "clusters",
+              "path": "modify-database.adoc",
+              "url": "/cloud/clusters/modify-database.html",
+              "title": "Modify a Database"
+            },
+            {
+              "module": "clusters",
+              "path": "monitoring/activity-log.adoc",
+              "url": "/cloud/clusters/monitoring/activity-log.html",
+              "title": "Activity Log"
+            },
+            {
+              "module": "clusters",
+              "path": "monitoring/alerts.adoc",
+              "url": "/cloud/clusters/monitoring/alerts.html",
+              "title": "Alerts &amp; Notifications"
+            },
+            {
+              "module": "clusters",
+              "path": "monitoring/metrics-dashboard.adoc",
+              "url": "/cloud/clusters/monitoring/metrics-dashboard.html",
+              "title": "Database Metrics"
+            },
+            {
+              "module": "clusters",
+              "path": "monitoring/monitoring.adoc",
+              "url": "/cloud/clusters/monitoring/monitoring.html",
+              "title": "Monitoring Overview"
+            },
+            {
+              "alias": true,
+              "module": "clusters",
+              "path": "pause-replication.adoc",
+              "url": "/cloud/clusters/xdcr/manage-xdcr-replications.html",
+              "title": "Manage Replications"
+            },
+            {
+              "module": "clusters",
+              "path": "query-service/query-service.adoc",
+              "url": "/cloud/clusters/query-service/query-service.html",
+              "title": "N1QL Query Service"
+            },
+            {
+              "module": "clusters",
+              "path": "query-service/query-workbench.adoc",
+              "url": "/cloud/clusters/query-service/query-workbench.html",
+              "title": "Query Workbench"
+            },
+            {
+              "alias": true,
+              "module": "clusters",
+              "path": "scale-cluster.adoc",
+              "url": "/cloud/clusters/scale-database.html",
+              "title": "Database Scaling"
+            },
+            {
+              "module": "clusters",
+              "path": "scale-database.adoc",
+              "url": "/cloud/clusters/scale-database.html",
+              "title": "Database Scaling"
+            },
+            {
+              "module": "clusters",
+              "path": "search-service/create-full-text-indexes.adoc",
+              "url": "/cloud/clusters/search-service/create-full-text-indexes.html",
+              "title": "Create Full Text Indexes"
+            },
+            {
+              "module": "clusters",
+              "path": "search-service/manage-full-text-indexes.adoc",
+              "url": "/cloud/clusters/search-service/manage-full-text-indexes.html",
+              "title": "Manage Full Text Indexes"
+            },
+            {
+              "module": "clusters",
+              "path": "search-service/perform-full-text-searches.adoc",
+              "url": "/cloud/clusters/search-service/perform-full-text-searches.html",
+              "title": "Perform Full Text Searches"
+            },
+            {
+              "module": "clusters",
+              "path": "search-service/search-service.adoc",
+              "url": "/cloud/clusters/search-service/search-service.html",
+              "title": "Search Service"
+            },
+            {
+              "module": "clusters",
+              "path": "sizing.adoc",
+              "url": "/cloud/clusters/sizing.html",
+              "title": "Sizing a Database"
+            },
+            {
+              "module": "clusters",
+              "path": "upgrade-database.adoc",
+              "url": "/cloud/clusters/upgrade-database.html",
+              "title": "Upgrading a Database"
+            },
+            {
+              "module": "clusters",
+              "path": "xdcr/manage-xdcr-replications.adoc",
+              "url": "/cloud/clusters/xdcr/manage-xdcr-replications.html",
+              "title": "Manage Replications"
+            },
+            {
+              "module": "clusters",
+              "path": "xdcr/xdcr.adoc",
+              "url": "/cloud/clusters/xdcr/xdcr.html",
+              "title": "Cross Data Center Replication (XDCR)"
+            },
+            {
+              "module": "get-started",
+              "path": "cluster-and-data.adoc",
+              "url": "/cloud/get-started/cluster-and-data.html",
+              "title": "Connecting to Your Database"
+            },
+            {
+              "module": "get-started",
+              "path": "configure-cluster-access.adoc",
+              "url": "/cloud/get-started/configure-cluster-access.html",
+              "title": "Configure Access to Your Cluster"
+            },
+            {
+              "module": "get-started",
+              "path": "configuring-app-services.adoc",
+              "url": "/cloud/get-started/configuring-app-services.html",
+              "title": "Configuring App Services (Mobile sync)"
+            },
+            {
+              "module": "get-started",
+              "path": "connect-to-cluster.adoc",
+              "url": "/cloud/get-started/connect-to-cluster.html",
+              "title": "Connect to Your Cluster"
+            },
+            {
+              "module": "get-started",
+              "path": "create-account.adoc",
+              "url": "/cloud/get-started/create-account.html",
+              "title": "Creating Free Account, Cluster, and App Service"
+            },
+            {
+              "alias": true,
+              "module": "get-started",
+              "path": "create-app-services-account.adoc",
+              "url": "/cloud/get-started/create-account.html",
+              "title": "Creating Free Account, Cluster, and App Service"
+            },
+            {
+              "module": "get-started",
+              "path": "decommission-resources.adoc",
+              "url": "/cloud/get-started/decommission-resources.html",
+              "title": "Remove Cloud Resources and Close Your Account"
+            },
+            {
+              "module": "get-started",
+              "path": "deploy-first-cluster.adoc",
+              "url": "/cloud/get-started/deploy-first-cluster.html",
+              "title": "Deploy Your First Cluster"
+            },
+            {
+              "module": "get-started",
+              "path": "get-started.adoc",
+              "url": "/cloud/get-started/get-started.html",
+              "title": "Get Started with Couchbase Capella"
+            },
+            {
+              "module": "get-started",
+              "path": "load-data.adoc",
+              "url": "/cloud/get-started/load-data.html",
+              "title": "Interact with Data in Your Cluster"
+            },
+            {
+              "module": "get-started",
+              "path": "other-data-tools.adoc",
+              "url": "/cloud/get-started/other-data-tools.html",
+              "title": "Other Utilities and Services"
+            },
+            {
+              "module": "get-started",
+              "path": "own-account.adoc",
+              "url": "/cloud/get-started/own-account.html",
+              "title": "Own Cloud Account"
+            },
+            {
+              "module": "get-started",
+              "path": "run-first-queries.adoc",
+              "url": "/cloud/get-started/run-first-queries.html",
+              "title": "Query Data with Query Workbench"
+            },
+            {
+              "alias": true,
+              "module": "invpc",
+              "path": "create-cluster.adoc",
+              "url": "/cloud/invpc/invpc-create-cluster.html",
+              "title": "Create a Cluster"
+            },
+            {
+              "module": "invpc",
+              "path": "invpc-backup-restore.adoc",
+              "url": "/cloud/invpc/invpc-backup-restore.html",
+              "title": "Backup and Restore Cluster Data"
+            },
+            {
+              "module": "invpc",
+              "path": "invpc-cloud-providers.adoc",
+              "url": "/cloud/invpc/invpc-cloud-providers.html",
+              "title": "Cloud Provider Requirements"
+            },
+            {
+              "module": "invpc",
+              "path": "invpc-clouds.adoc",
+              "url": "/cloud/invpc/invpc-clouds.html",
+              "title": "Clouds Overview"
+            },
+            {
+              "module": "invpc",
+              "path": "invpc-create-cluster.adoc",
+              "url": "/cloud/invpc/invpc-create-cluster.html",
+              "title": "Create a Cluster"
+            },
+            {
+              "module": "invpc",
+              "path": "invpc-delete-database.adoc",
+              "url": "/cloud/invpc/invpc-delete-database.html",
+              "title": "Delete a Database"
+            },
+            {
+              "module": "invpc",
+              "path": "invpc-index.adoc",
+              "url": "/cloud/invpc/invpc-index.html",
+              "title": "Content for inVPC Customers"
+            },
+            {
+              "module": "invpc",
+              "path": "invpc-manage-backup.adoc",
+              "url": "/cloud/invpc/invpc-manage-backup.html",
+              "title": "Manage Backups"
+            },
+            {
+              "module": "invpc",
+              "path": "invpc-manage-clouds.adoc",
+              "url": "/cloud/invpc/invpc-manage-clouds.html",
+              "title": "Connect and Manage Clouds"
+            },
+            {
+              "module": "invpc",
+              "path": "invpc-manage-database-users.adoc",
+              "url": "/cloud/invpc/invpc-manage-database-users.html",
+              "title": "Configure Database Credentials"
+            },
+            {
+              "module": "invpc",
+              "path": "invpc-manage-restore.adoc",
+              "url": "/cloud/invpc/invpc-manage-restore.html",
+              "title": "Restore a Backup"
+            },
+            {
+              "module": "invpc",
+              "path": "invpc-manage-xdcr-replications.adoc",
+              "url": "/cloud/invpc/invpc-manage-xdcr-replications.html",
+              "title": "Manage Replications"
+            },
+            {
+              "module": "invpc",
+              "path": "invpc-migrate.adoc",
+              "url": "/cloud/invpc/invpc-migrate.html",
+              "title": "Migrate Data to a Cluster"
+            },
+            {
+              "module": "invpc",
+              "path": "invpc-private-network.adoc",
+              "url": "/cloud/invpc/invpc-private-network.html",
+              "title": "Configure a Private Network"
+            },
+            {
+              "alias": true,
+              "module": "mobile",
+              "path": "channels/channels.adoc",
+              "url": "/cloud/app-services/channels/channels.html",
+              "title": "Channels"
+            },
+            {
+              "alias": true,
+              "module": "mobile",
+              "path": "connect/connect-apps-to-endpoint.adoc",
+              "url": "/cloud/app-services/connect/connect-apps-to-endpoint.html",
+              "title": "Connecting your Apps to an App Endpoint"
+            },
+            {
+              "alias": true,
+              "module": "mobile",
+              "path": "deployment/configure-app-endpoint.adoc",
+              "url": "/cloud/app-services/deployment/creating-an-app-endpoint.html",
+              "title": "Creating App Endpoints"
+            },
+            {
+              "alias": true,
+              "module": "mobile",
+              "path": "deployment/deployment.adoc",
+              "url": "/cloud/app-services/deployment/creating-an-app-service.html",
+              "title": "Creating an App Service"
+            },
+            {
+              "alias": true,
+              "module": "mobile",
+              "path": "index.adoc",
+              "url": "/cloud/app-services/index.html",
+              "title": "App Services"
+            },
+            {
+              "alias": true,
+              "module": "mobile",
+              "path": "user-management/create-user.adoc",
+              "url": "/cloud/app-services/user-management/create-user.html",
+              "title": "App User Administration"
+            },
+            {
+              "alias": true,
+              "module": "mobile",
+              "path": "user-management/set-up-authentication-provider.adoc",
+              "url": "/cloud/app-services/user-management/set-up-authentication-provider.html",
+              "title": "Setting up an Authentication Provider"
+            },
+            {
+              "module": "organizations",
+              "path": "manage-account.adoc",
+              "url": "/cloud/organizations/manage-account.html",
+              "title": "Manage Your Couchbase Capella Account"
+            },
+            {
+              "module": "organizations",
+              "path": "manage-organization-users.adoc",
+              "url": "/cloud/organizations/manage-organization-users.html",
+              "title": "Manage Organization Users"
+            },
+            {
+              "module": "organizations",
+              "path": "manage-organizations.adoc",
+              "url": "/cloud/organizations/manage-organizations.html",
+              "title": "Manage Organizations"
+            },
+            {
+              "module": "organizations",
+              "path": "organization-projects-overview.adoc",
+              "url": "/cloud/organizations/organization-projects-overview.html",
+              "title": "Organization, Project, and Database Access Overview"
+            },
+            {
+              "module": "organizations",
+              "path": "organization-user-roles.adoc",
+              "url": "/cloud/organizations/organization-user-roles.html",
+              "title": "Organization Roles"
+            },
+            {
+              "module": "organizations",
+              "path": "organizations.adoc",
+              "url": "/cloud/organizations/organizations.html",
+              "title": "Organizations and Organization Users Overview"
+            },
+            {
+              "module": "organizations",
+              "path": "ui-auth/add-sso-auth.adoc",
+              "url": "/cloud/organizations/ui-auth/add-sso-auth.html",
+              "title": "Add Federated &amp; SSO Authentication"
+            },
+            {
+              "module": "organizations",
+              "path": "ui-auth/capella-ui-auth.adoc",
+              "url": "/cloud/organizations/ui-auth/capella-ui-auth.html",
+              "title": "Capella UI Authentication"
+            },
+            {
+              "module": "organizations",
+              "path": "ui-auth/manage-identity-providers.adoc",
+              "url": "/cloud/organizations/ui-auth/manage-identity-providers.html",
+              "title": "Manage Identity Providers"
+            },
+            {
+              "module": "organizations",
+              "path": "ui-auth/manage-role-mapping.adoc",
+              "url": "/cloud/organizations/ui-auth/manage-role-mapping.html",
+              "title": "Manage Capella Role Mapping"
+            },
+            {
+              "module": "organizations",
+              "path": "ui-auth/mfa.adoc",
+              "url": "/cloud/organizations/ui-auth/mfa.html",
+              "title": "Manage Multi-Factor Authentication (MFA)"
+            },
+            {
+              "module": "organizations",
+              "path": "ui-auth/sign-in-with-sso.adoc",
+              "url": "/cloud/organizations/ui-auth/sign-in-with-sso.html",
+              "title": "Sign in to Capella with SSO"
+            },
+            {
+              "module": "projects",
+              "path": "manage-project-users.adoc",
+              "url": "/cloud/projects/manage-project-users.html",
+              "title": "Manage Project Users"
+            },
+            {
+              "module": "projects",
+              "path": "manage-projects.adoc",
+              "url": "/cloud/projects/manage-projects.html",
+              "title": "Manage Projects"
+            },
+            {
+              "module": "projects",
+              "path": "project-roles.adoc",
+              "url": "/cloud/projects/project-roles.html",
+              "title": "Project Roles"
+            },
+            {
+              "module": "projects",
+              "path": "projects.adoc",
+              "url": "/cloud/projects/projects.html",
+              "title": "Projects Overview"
+            },
+            {
+              "module": "public-api-guide",
+              "path": "introducing-public-api.adoc",
+              "url": "/cloud/public-api-guide/introducing-public-api.html",
+              "title": "Overview of the Public API"
+            },
+            {
+              "module": "public-api-guide",
+              "path": "using-cloud-public-api.adoc",
+              "url": "/cloud/public-api-guide/using-cloud-public-api.html",
+              "title": "Using the Public API"
+            },
+            {
+              "alias": true,
+              "module": "reference",
+              "path": "alerts.adoc",
+              "url": "/cloud/clusters/monitoring/monitoring.html",
+              "title": "Monitoring Overview"
+            },
+            {
+              "module": "reference",
+              "path": "aws.adoc",
+              "url": "/cloud/reference/aws.html",
+              "title": "Amazon Web Services (AWS)"
+            },
+            {
+              "module": "reference",
+              "path": "browser-compatibility.adoc",
+              "url": "/cloud/reference/browser-compatibility.html",
+              "title": "Supported Web Browsers"
+            },
+            {
+              "module": "reference",
+              "path": "cloud-instances.adoc",
+              "url": "/cloud/reference/cloud-instances.html",
+              "title": "Cloud Instance Availability"
+            },
+            {
+              "module": "reference",
+              "path": "gcp.adoc",
+              "url": "/cloud/reference/gcp.html",
+              "title": "Google Cloud Platform (GCP)"
+            },
+            {
+              "module": "reference",
+              "path": "rest-endpoints-all.adoc",
+              "url": "/cloud/reference/rest-endpoints-all.html",
+              "title": "Couchbase Public API"
+            },
+            {
+              "module": "reference",
+              "path": "sdk-compatibility.adoc",
+              "url": "/cloud/reference/sdk-compatibility.html",
+              "title": "SDK Compatibility With Capella"
+            },
+            {
+              "module": "reference",
+              "path": "user-management-migration.adoc",
+              "url": "/cloud/reference/user-management-migration.html",
+              "title": "Migration to New User Management"
+            },
+            {
+              "module": "release-notes",
+              "path": "release-notes.adoc",
+              "url": "/cloud/release-notes/release-notes.html",
+              "title": "Couchbase Capella Release Notes"
+            },
+            {
+              "module": "ROOT",
+              "path": "index.adoc",
+              "url": "/cloud/index.html",
+              "title": "Welcome to Couchbase Capella"
+            },
+            {
+              "module": "security",
+              "path": "add-aws-private-link.adoc",
+              "url": "/cloud/security/add-aws-private-link.html",
+              "title": "Add an AWS PrivateLink Connection"
+            },
+            {
+              "alias": true,
+              "module": "security",
+              "path": "allow-ip-address.adoc",
+              "url": "/cloud/clusters/allow-ip-address.html",
+              "title": "Configure Allowed IP Addresses"
+            },
+            {
+              "module": "security",
+              "path": "audit-management.adoc",
+              "url": "/cloud/security/audit-management.html",
+              "title": "Audit Management"
+            },
+            {
+              "module": "security",
+              "path": "auditing.adoc",
+              "url": "/cloud/security/auditing.html",
+              "title": "Auditing"
+            },
+            {
+              "alias": true,
+              "module": "security",
+              "path": "manage-database-users.adoc",
+              "url": "/cloud/clusters/manage-database-users.html",
+              "title": "Configure Database Credentials"
+            },
+            {
+              "module": "security",
+              "path": "security.adoc",
+              "url": "/cloud/security/security.html",
+              "title": "Security Overview"
+            },
+            {
+              "module": "support",
+              "path": "feedback.adoc",
+              "url": "/cloud/support/feedback.html",
+              "title": "Provide Feedback"
+            },
+            {
+              "module": "support",
+              "path": "manage-support.adoc",
+              "url": "/cloud/support/manage-support.html",
+              "title": "Request Support"
+            },
+            {
+              "module": "support",
+              "path": "support.adoc",
+              "url": "/cloud/support/support.html",
+              "title": "Support Overview"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "title": "Home",
+      "latest": "master",
+      "versions": [
+        {
+          "version": "master",
+          "url": "/home/index.html",
+          "pages": [
+            {
+              "module": "contribute",
+              "path": "add-pages.adoc",
+              "url": "/home/contribute/add-pages.html",
+              "title": "Add a New Documentation Page"
+            },
+            {
+              "module": "contribute",
+              "path": "asciidoc-overview.adoc",
+              "url": "/home/contribute/asciidoc-overview.html",
+              "title": "Writing Documentation Overview"
+            },
+            {
+              "module": "contribute",
+              "path": "attributes-and-roles.adoc",
+              "url": "/home/contribute/attributes-and-roles.html",
+              "title": "Attributes and Roles"
+            },
+            {
+              "module": "contribute",
+              "path": "basics.adoc",
+              "url": "/home/contribute/basics.html",
+              "title": "AsciiDoc Basics"
+            },
+            {
+              "module": "contribute",
+              "path": "build-site.adoc",
+              "url": "/home/contribute/build-site.html",
+              "title": "Build the Documentation Site Locally"
+            },
+            {
+              "module": "contribute",
+              "path": "code-blocks.adoc",
+              "url": "/home/contribute/code-blocks.html",
+              "title": "Code Blocks and Callouts"
+            },
+            {
+              "module": "contribute",
+              "path": "component-configuration.adoc",
+              "url": "/home/contribute/component-configuration.html",
+              "title": "Component Structure and Configuration"
+            },
+            {
+              "module": "contribute",
+              "path": "create-branches.adoc",
+              "url": "/home/contribute/create-branches.html",
+              "title": "Create a Working Branch"
+            },
+            {
+              "module": "contribute",
+              "path": "cross-references.adoc",
+              "url": "/home/contribute/cross-references.html",
+              "title": "Cross References"
+            },
+            {
+              "module": "contribute",
+              "path": "edit-pages.adoc",
+              "url": "/home/contribute/edit-pages.html",
+              "title": "Edit Existing Documentation"
+            },
+            {
+              "module": "contribute",
+              "path": "extensions.adoc",
+              "url": "/home/contribute/extensions.html",
+              "title": "Site Extensions"
+            },
+            {
+              "module": "contribute",
+              "path": "generate-rest-api.adoc",
+              "url": "/home/contribute/generate-rest-api.html",
+              "title": "Generate REST API Documentation"
+            },
+            {
+              "module": "contribute",
+              "path": "ids.adoc",
+              "url": "/home/contribute/ids.html",
+              "title": "Element IDs and Same-Page Cross References"
+            },
+            {
+              "module": "contribute",
+              "path": "includes.adoc",
+              "url": "/home/contribute/includes.html",
+              "title": "Include Examples and Partials"
+            },
+            {
+              "module": "contribute",
+              "path": "index.adoc",
+              "url": "/home/contribute/index.html",
+              "title": "Contributing to the Couchbase Documentation"
+            },
+            {
+              "module": "contribute",
+              "path": "install-antora.adoc",
+              "url": "/home/contribute/install-antora.html",
+              "title": "Install Antora"
+            },
+            {
+              "module": "contribute",
+              "path": "install-git-and-editor.adoc",
+              "url": "/home/contribute/install-git-and-editor.html",
+              "title": "Install Git and an AsciiDoc Editor"
+            },
+            {
+              "module": "contribute",
+              "path": "nav-menus-and-files.adoc",
+              "url": "/home/contribute/nav-menus-and-files.html",
+              "title": "Navigation Menus and Files"
+            },
+            {
+              "module": "contribute",
+              "path": "pages.adoc",
+              "url": "/home/contribute/pages.html",
+              "title": "Standard Document Structure"
+            },
+            {
+              "module": "contribute",
+              "path": "playbook.adoc",
+              "url": "/home/contribute/playbook.html",
+              "title": "Get the Site Playbook Project"
+            },
+            {
+              "module": "contribute",
+              "path": "repositories.adoc",
+              "url": "/home/contribute/repositories.html",
+              "title": "Repository Organization"
+            },
+            {
+              "module": "contribute",
+              "path": "send-pr.adoc",
+              "url": "/home/contribute/send-pr.html",
+              "title": "Send Your Changes for Review"
+            },
+            {
+              "module": "contribute",
+              "path": "set-up-repository.adoc",
+              "url": "/home/contribute/set-up-repository.html",
+              "title": "Set Up Your Local Repository"
+            },
+            {
+              "module": "contribute",
+              "path": "style-and-voice.adoc",
+              "url": "/home/contribute/style-and-voice.html",
+              "title": "Style and Voice"
+            },
+            {
+              "module": "contribute",
+              "path": "tabs.adoc",
+              "url": "/home/contribute/tabs.html",
+              "title": "Tabs Sets"
+            },
+            {
+              "module": "contribute",
+              "path": "test-site.adoc",
+              "url": "/home/contribute/test-site.html",
+              "title": "Test Your Changes Locally"
+            },
+            {
+              "module": "contribute",
+              "path": "update-nav.adoc",
+              "url": "/home/contribute/update-nav.html",
+              "title": "Update a Navigation File"
+            },
+            {
+              "module": "contribute",
+              "path": "word-list.adoc",
+              "url": "/home/contribute/word-list.html",
+              "title": "Word List"
+            },
+            {
+              "module": "contribute",
+              "path": "workflow-overview.adoc",
+              "url": "/home/contribute/workflow-overview.html",
+              "title": "Workflow Overview"
+            },
+            {
+              "module": "ROOT",
+              "path": "cloud.adoc",
+              "url": "/home/cloud.html",
+              "title": "Couchbase on Containers, Kubernetes, and Cloud"
+            },
+            {
+              "module": "ROOT",
+              "path": "index.adoc",
+              "url": "/home/index.html",
+              "title": "Couchbase Documentation"
+            },
+            {
+              "module": "ROOT",
+              "path": "integrations.adoc",
+              "url": "/home/integrations.html",
+              "title": "Big Data Integration Using Couchbase Connectors"
+            },
+            {
+              "module": "ROOT",
+              "path": "mobile.adoc",
+              "url": "/home/mobile.html",
+              "title": "Couchbase Mobile - Embedded Database on the Edge"
+            },
+            {
+              "module": "ROOT",
+              "path": "sdk.adoc",
+              "url": "/home/sdk.html",
+              "title": "SDKs &amp; Connectors"
+            },
+            {
+              "module": "ROOT",
+              "path": "server.adoc",
+              "url": "/home/server.html",
+              "title": "Couchbase Server"
+            },
+            {
+              "alias": true,
+              "module": "sdks",
+              "path": "intro.adoc",
+              "url": "/home/sdk.html",
+              "title": "SDKs &amp; Connectors"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
